@@ -3,8 +3,8 @@ In a free neutron EOS we will not consider contribution from any other particles
 The required formulas are: \
 ### Pressure Term
 #### $$p= \frac{1}{3\pi^2}\int_0^{k_f} \frac{k^4}{\sqrt{M^2+k^2}}dk$$ 
-where $k$ is the variable over which the integration is performed, M is the mass of Neutron in $MeV$ and $k_f$ is the fermi momentum. \
-##### $$(3\pi^2n)^(1/3)$$, 
+where $k$ is the variable over which the integration is performed, M is the mass of Neutron in $MeV$ and $k_f$ is the fermi momentum. 
+##### $$(3\pi^2n)^{(1/3)}$$, 
 where 'n' is number density
 ### Energy Term:
 
