@@ -1,1 +1,4 @@
-
+# Construction of a free neutron Equation of State:
+In a free neutron EOS we will not consider contribution from any other particles, the entire star will be made up of 'free' neutrons, that is, all the neutrons will not interact with eachother except gravitational interaction.
+The required formulas are:
+$$T^{m \epsilon}$$
