@@ -1,17 +1,7 @@
-The main libraries you will require for this project are:
-1. numpy 
-2. scipy.integrate and from there import quad and root
-3. scipy.optimize and from there import root_scalar
-4. matplotlib.pyplot 
-5.random
-6. scipy.interpolate and from there, import interp1d
-7. numba and from there import jit
-8. time
-9. scipy.stats
-10. ultranest
-
-You need to install Ultranest for the Bayesian Analysis, rest modules/libraries can be readily found in most Python enviournments, once ultranest is installed in your enviournment,
-you are good to go.
-I suggest you to visit the Ultranest website for installation guide. link: <https://johannesbuchner.github.io/UltraNest/index.html>
-I do not recommend using google colab for the Bayesian analysis part, and prefer JupyterLab or Spyder or any system based offline IDE you like. 
-
+numpy
+scipy
+matplotlib
+random
+numba
+ultranest
+time
